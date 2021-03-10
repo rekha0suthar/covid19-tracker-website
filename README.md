@@ -1,8 +1,7 @@
-# COVID-19 Stats Tracker!
+# COVID-19 Tracker!
 
-### Live Site: https://covid19-stats-tracker.herokuapp.com
+### Live Site: https://covid19-tracker-website.herokuapp.com
 
-![COVID-19 Tracker](https://github.com/dakshkhetan/covid-19-tracker/blob/master/public/images/app-screenshot.png)
 
 ### Info
 - Made using React.js, Chart.js, and Material-UI.
